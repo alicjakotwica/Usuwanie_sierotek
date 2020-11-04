@@ -10,10 +10,10 @@ The script does not need additional packages to run.
 # Example of work
 Before:
 
-"Sierotki to taki jednoliterowe wyrazy, które pozostały na końcu zdania takie jak: a, i, w, itp."
+"Sierotki to takie jednoliterowe wyrazy, które pozostały na końcu zdania takie jak: a, i, w, itp."
 
 After:
 
-"Sierotki to taki jednoliterowe wyrazy, które pozostały na końcu zdania takie jak: a,~i,~w,~itp."
+"Sierotki to takie jednoliterowe wyrazy, które pozostały na końcu zdania takie jak: a,~i,~w,~itp."
 
-This will assure that TeX will not break line after a single letter leaving it at the 
+This will assure that TeX will not break line after a single letter leaving it at the end of line
